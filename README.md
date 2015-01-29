@@ -24,4 +24,23 @@ R. Yus, C. Bobed, G. Esteban, F. Bobillo, and E. Mena, <a href="http://ceur-ws.o
 C. Bobed, F. Bobillo, R. Yus, G. Esteban, and E. Mena, <a href="http://ceur-ws.org/Vol-1207/paper_1.pdf">"Android Went Semantic: Time for Evaluation"</a>, in 3rd International Workshop on OWL Reasoner Evaluation (ORE 2014), Vienna (Austria), 2014, pp. 23-29.
 
 
+# External libraries
+
+The source code for the libraries:
+
+<ul>
+<li>hermit__automaton-1.11-8-android.jar</li>
+<li>hermit__jautomata-core-2.0-android.jar</li>
+</ul>
+
+can be found at:
+
+<ul>
+<li>https://github.com/robertoyus/dk.brics.automaton-android</li>
+<li>https://github.com/robertoyus/jautomata-core-android</li>
+</ul>
+
+
+
+
 
