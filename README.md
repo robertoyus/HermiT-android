@@ -6,7 +6,9 @@ HermiT is reasoner for ontologies written using the Web Ontology Language (OWL).
 HermiT is the first publicly-available OWL reasoner based on a novel “hypertableau” calculus which provides much more efficient reasoning than any previously-known algorithm. Ontologies which previously required minutes or hours to classify can often by classified in seconds by HermiT, and HermiT is the first reasoner able to classify a number of ontologies which had previously proven too complex for any available system to handle.
 HermiT uses direct semantics and passes all OWL 2 conformance tests for direct semantics reasoners.
 
-HermiT has been developed by <a
+# HermiT
+
+This is a port of the HermiT reasoner developed by <a
 	href="http://www.cs.ox.ac.uk/people/boris.motik/">Boris
 	Motik</a>, <a href="http://v.cx/rob">Rob Shearer</a>, <a
 	href="http://www.cs.ox.ac.uk/people/birte.glimm/">Birte
